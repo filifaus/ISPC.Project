@@ -32,12 +32,13 @@ realizados, la asignación de rutas y transportistas, y los datos de los cliente
 Esto facilitará el seguimiento de los envíos, la planificación de rutas, la
 asignación de transportistas y la interacción con los clientes.
 
-Proyecto realizado con MySQL (Base de datos), HTML5, CSS, JavaScript.
 
 #  Desarolladores del proyecto
 Fili Fausto
 Cabrera Lautaro
 Lujan Joaquin
 Ivo Micangeli
+
+Proyecto realizado con MySQL (Base de datos), HTML5, CSS, JavaScript.
 
 @ 2023-06 developing
