@@ -34,9 +34,9 @@ asignación de transportistas y la interacción con los clientes.
 
 
 #  Desarolladores del proyecto
-Fili Fausto
-Cabrera Lautaro
-Lujan Joaquin
+Fili Fausto || 
+Cabrera Lautaro || 
+Lujan Joaquin || 
 Ivo Micangeli
 
 Proyecto realizado con MySQL (Base de datos), HTML5, CSS, JavaScript.
